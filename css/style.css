@@ -87,3 +87,11 @@ aside ul {
 aside ol {
   padding-left: 20px;
 }
+
+footer {
+  background-color: #111827;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  margin-top: 30px;
+}
