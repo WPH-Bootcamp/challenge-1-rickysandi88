@@ -12,7 +12,9 @@ body {
 }
 
 header {
-  background-color: #111827;
+  background-image: url(../assets/background.jpeg);
+  background-size: contain;
+  background-position: center;
   color: white;
   padding: 30px;
 }
@@ -21,7 +23,6 @@ header h1 {
   margin-bottom: 10px;
 }
 
-/* Navigation */
 nav {
   background-color: #1f2937;
   padding: 15px 30px;
