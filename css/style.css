@@ -14,9 +14,9 @@ body {
 header {
   background-image: url(../assets/background.jpeg);
   background-size: contain;
-  background-position: center;
   color: white;
   padding: 30px;
+  margin-top: 60px;
 }
 
 header h1 {
@@ -26,6 +26,10 @@ header h1 {
 nav {
   background-color: #1f2937;
   padding: 15px 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 nav a {
